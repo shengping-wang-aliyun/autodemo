@@ -1,0 +1,1 @@
+sudo docker run -d -p 5080:5080 192.168.1.221:5000/autodemodocker
